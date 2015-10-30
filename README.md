@@ -1,6 +1,9 @@
 # Bot Land Issue Tracking
-This Git is strictly for Bot Land Issue Tracking
-Please click [here] [issues] to submit a bug.
+This Git is strictly for Bot Land Issue Tracking and Wiki hosting.
+
+Please click [here] [issues] to submit a bug. Before submitting, please read this README in it's entirety.
+
+Please click [here] [wiki] to view the Bot Land wiki.
 
 ### Known Issues
 
@@ -34,3 +37,4 @@ Please include the following information with your issue
 If a screenshot is helpful to describe the problem, please include a link to the screen shot on imgur or a similar site.
 
    [issues]: <https://github.com/voiddreamer/BotLandTracking/issues>
+   [wiki]: <https://github.com/voiddreamer/BotLandTracking/wiki>
