@@ -12,7 +12,7 @@ Title:
 
 Example:
 --------
-[Chrome 46 / Windows 10] 
+[Chrome 46 / Windows 10] Bots are on fire
 
 Issue:
 ------
