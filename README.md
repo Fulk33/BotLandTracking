@@ -2,10 +2,12 @@
 This Git is strictly for Bot Land Issue Tracking
 Please click [here] [issues] to submit a bug.
 
-#### FireFox
+### Known Issues
+
+##### FireFox
 Please keep in mind that FireFox is not yet working with Bot Land. Chrome and Microsoft Edge are the only confirmed working browsers.
 
-#### WebGL
+##### WebGL
 WebGL must be enabled in Chrome for Bot Land to work.
 
 ## Submitting Issues
