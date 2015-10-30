@@ -10,7 +10,10 @@ Please keep in mind that FireFox is not yet working with Bot Land. Chrome and Mi
 ##### WebGL
 WebGL must be enabled in Chrome for Bot Land to work.
 
-## Submitting Issues
+## Submitting new issues
+
+Before submitting a new bug, please search to see if the issue has already been submitted. This will help us keep up with the crtical issues and reduce time spent on deleting duplicate issues.
+
 Follow the following template when submitting a new issue:
 
 ##### Title
