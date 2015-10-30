@@ -14,12 +14,12 @@ WebGL must be enabled in Chrome for Bot Land to work.
 Follow the following template when submitting a new issue:
 
 ##### Title
-```sh
+```
 [BROWSER & Version / OS & Version] Brief description of the issue.
 ```
 
 ##### Example
-```sh
+```
 [Chrome 46 / Windows 10] Bots are on fire
 ```
 
