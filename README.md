@@ -6,16 +6,19 @@ Please click on https://github.com/voiddreamer/BotLandTracking/issues to submit 
 
 Please follow the following template when submitting a new issue:
 
-Title:
-------
+Title
+-----
 [BROWSER & Version / OS & Version] Brief description of the issue.
 
-Example:
---------
+Example
+-------
 [Chrome 46 / Windows 10] Bots are on fire
 
-Issue:
-------
+Issue
+-----
+
+Please include the following information with your issue
+
 0. Steps to reproduce the bug
 0. What you expected to happen
 0. What actually happened
