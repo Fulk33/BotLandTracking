@@ -1,4 +1,4 @@
-# Bot Land Issue Tracking
+# Bot Land
 This Git is strictly for Bot Land Issue Tracking and Wiki hosting.
 
 Please click [here] [issues] to submit a bug. Before submitting, please read this README in it's entirety.
