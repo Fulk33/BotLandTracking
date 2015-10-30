@@ -3,9 +3,9 @@ This Git is strictly for Bot Land Issue Tracking and Wiki hosting.
 
 For more information about the game, please visit the Bot Land [website] [botland] or check out the live development stream on [twitch] [stream].
 
-Please click [here] [issues] to submit a bug. Before submitting, please read this README in it's entirety.
+Click [here] [issues] to submit a bug. Before submitting, please read this README in it's entirety.
 
-Please click [here] [wiki] to view the Bot Land wiki.
+Click [here] [wiki] to view the Bot Land wiki.
 
 ### Known Issues
 
