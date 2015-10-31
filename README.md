@@ -36,7 +36,7 @@ Please include the following information with your issue
   - What actually happened
 
 ##### Screenshot
-If a screenshot is helpful to describe the problem, please include a link to the screen shot on imgur or a similar site.
+If a screenshot is helpful to describe the problem, please include a link to the screenshot on imgur or a similar site.
 
    [issues]: <https://github.com/voiddreamer/BotLandTracking/issues>
    [wiki]: <https://github.com/voiddreamer/BotLandTracking/wiki>
