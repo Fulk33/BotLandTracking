@@ -7,7 +7,7 @@ Click [here] [issues] to submit a bug. Before submitting, please read this READM
 
 Click [here] [wiki] to view the Bot Land wiki.
 
-### Known Issues
+### Note:
 
 ##### FireFox
 FireFox is currently not compatible with Bot Land. Chrome and Microsoft Edge are the only confirmed working browsers.
