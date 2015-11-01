@@ -1,11 +1,11 @@
 # Bot Land
-This Git is strictly for Bot Land Issue Tracking and Wiki hosting.
+This git is for Bot Land issue tracking and wiki hosting.
 
 For more information about the game, please visit the Bot Land [website] [botland] or check out the live development stream on [twitch] [stream].
 
-Click [here] [issues] to submit a bug. Before submitting, please read this README in it's entirety.
+Please consult this Readme before submitting an issue.
 
-Click [here] [wiki] to view the Bot Land wiki.
+## [Submit a new issue] [issues] [Wiki] [wiki]
 
 ### Note:
 
@@ -38,7 +38,7 @@ Please include the following information with your issue
 ##### Screenshot
 If a screenshot is helpful to describe the problem, please include a link to the screenshot on imgur or a similar site.
 
-   [issues]: <https://github.com/voiddreamer/BotLandTracking/issues>
+   [issue]: <https://github.com/voiddreamer/BotLandTracking/issues/new>
    [wiki]: <https://github.com/voiddreamer/BotLandTracking/wiki>
    [botland]: <http://bot.land>
    [stream]: <http://www.twitch.tv/adam13531>
