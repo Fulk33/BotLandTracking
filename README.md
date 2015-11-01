@@ -9,11 +9,8 @@ Please consult this Readme before submitting an issue.
 
 ### Note:
 
-##### FireFox
-FireFox is currently not compatible with Bot Land. Chrome and Microsoft Edge are the only confirmed working browsers.
-
 ##### WebGL
-WebGL must be enabled in Chrome for Bot Land to work.
+WebGL must be enabled for Bot Land to work.
 
 ## Submitting new issues
 
