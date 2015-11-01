@@ -14,7 +14,7 @@ WebGL must be enabled for Bot Land to work.
 
 ## Submitting new issues
 
-Before submitting a new bug, *please search to see if the issue has already been submitted.* This will help us keep up with the critical issues and reduce time spent on deleting duplicate issues. If you find that the issue has been reported, feel free to add more information to the issue if it would be beneficial or if it has been requested. If you find that the issue has not yet been submitted then please follow the following template:
+Before submitting a new issue, *please search to see if the issue has already been submitted.* This will help us keep up with the critical issues and reduce time spent on deleting duplicate issues. If you find that the issue has been reported, feel free to add more information to the issue if it would be beneficial or if it has been requested. If you find that the issue has not yet been submitted then please follow the following template:
 
 ##### Title
 ```
