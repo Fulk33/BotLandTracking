@@ -5,7 +5,7 @@ For more information about the game, please visit the Bot Land [website] [botlan
 
 Please consult this Readme before submitting an issue.
 
-## [Submit a new issue] [issues] [Wiki] [wiki]
+## [Submit a new issue] [issue] [Wiki] [wiki]
 
 ### Note:
 
